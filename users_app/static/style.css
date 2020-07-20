@@ -1,0 +1,10 @@
+body{
+    background-color:lightgreen;
+    display:flex;
+    justify-content:space-between;
+}
+
+section{
+    width:50%;
+    margin:0 20px;
+}
